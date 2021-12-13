@@ -81,7 +81,7 @@ docker run -it --rm \
   -e YAPI_DB_USER="some user" \
   -e YAPI_DB_PASS="some password" \
   -p 3000:3000 \
-  xiao0yy/yapi-docker:v1.9.2 run install-server
+  xiao0yy/yapi-docker:v1.10.2 run install-server
 ```
 
 ## Run
@@ -94,5 +94,5 @@ docker run -it --rm \
   -e YAPI_DB_USER="some user" \
   -e YAPI_DB_PASS="some password" \
   -p 3000:3000 \
-  xiao0yy/yapi-docker:v1.9.2
+  xiao0yy/yapi-docker:v1.10.2
 ```
